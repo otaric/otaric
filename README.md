@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/will-taric">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-taric&layout=compact&langs_count=7&theme=material-palenight"/>
+  <a href="https://github.com/otaric">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaric&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
   
 <div style="display: inline_block"><br>
